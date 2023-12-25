@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamdanmubarak04122010
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning JAVA.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my career.
 - 📫 How to reach me :- hamdanmubarak04122010@gmail.com
 
 <!---
