@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamdanmubarak04122010
+- 👋 Hi, I’m HAMDAN MUBARAK
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on my career.
