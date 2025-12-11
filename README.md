@@ -35,6 +35,7 @@ I'm a 15-year-old **certified game developer** and **web developer** passionate 
 ## 🏆 Certifications
 - Certified Game Developer
 - Certified Web Developer
+- Certified Android and IOS App Developer
 
 ---
 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
